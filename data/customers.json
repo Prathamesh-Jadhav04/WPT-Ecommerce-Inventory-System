@@ -1,0 +1,130 @@
+[
+  {
+    "customerId": "C001",
+    "name": "Priya Sharma",
+    "email": "customer1@example.com",
+    "shippingAddress": {
+      "street": "10 Main Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "postalCode": "422001",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500001"
+    },
+    "membershipLevel": "Silver"
+  },
+  {
+    "customerId": "C002",
+    "name": "Rahul Verma",
+    "email": "customer2@example.com",
+    "shippingAddress": {
+      "street": "20 Main Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postalCode": "422002",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500002"
+    },
+    "membershipLevel": "Platinum"
+  },
+  {
+    "customerId": "C003",
+    "name": "Neha Patil",
+    "email": "customer3@example.com",
+    "shippingAddress": {
+      "street": "30 Main Road",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "postalCode": "422003",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500003"
+    },
+    "membershipLevel": "Bronze"
+  },
+  {
+    "customerId": "C004",
+    "name": "Arjun Mehta",
+    "email": "customer4@example.com",
+    "shippingAddress": {
+      "street": "40 Main Road",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "postalCode": "422004",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500004"
+    },
+    "membershipLevel": "Gold"
+  },
+  {
+    "customerId": "C005",
+    "name": "Aisha Khan",
+    "email": "customer5@example.com",
+    "shippingAddress": {
+      "street": "50 Main Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "postalCode": "422005",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500005"
+    },
+    "membershipLevel": "Silver"
+  },
+  {
+    "customerId": "C006",
+    "name": "Vikram Rao",
+    "email": "customer6@example.com",
+    "shippingAddress": {
+      "street": "60 Main Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postalCode": "422006",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500006"
+    },
+    "membershipLevel": "Platinum"
+  },
+  {
+    "customerId": "C007",
+    "name": "Sana Shaikh",
+    "email": "customer7@example.com",
+    "shippingAddress": {
+      "street": "70 Main Road",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "postalCode": "422007",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500007"
+    },
+    "membershipLevel": "Bronze"
+  },
+  {
+    "customerId": "C008",
+    "name": "Om Kulkarni",
+    "email": "customer8@example.com",
+    "shippingAddress": {
+      "street": "80 Main Road",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "postalCode": "422008",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "9876500008"
+    },
+    "membershipLevel": "Gold"
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "productId": "P001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "brand": "LogiTech",
+    "price": 799,
+    "quantity": 45,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "electronics",
+      "logitech"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P002",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "brand": "KeyPro",
+    "price": 2499,
+    "quantity": 22,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "electronics",
+      "keypro"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P003",
+    "name": "USB-C Hub",
+    "category": "Accessories",
+    "brand": "PortPlus",
+    "price": 1599,
+    "quantity": 14,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "accessories",
+      "portplus"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P004",
+    "name": "Notebook Set",
+    "category": "Stationery",
+    "brand": "PaperNest",
+    "price": 299,
+    "quantity": 120,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "stationery",
+      "papernest"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P005",
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Stride",
+    "price": 3299,
+    "quantity": 18,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "footwear",
+      "stride"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P006",
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "brand": "Everyday",
+    "price": 599,
+    "quantity": 60,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "clothing",
+      "everyday"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P007",
+    "name": "Water Bottle",
+    "category": "Lifestyle",
+    "brand": "Hydra",
+    "price": 449,
+    "quantity": 80,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "lifestyle",
+      "hydra"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P008",
+    "name": "Backpack",
+    "category": "Bags",
+    "brand": "TrailMate",
+    "price": 1899,
+    "quantity": 25,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "bags",
+      "trailmate"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P009",
+    "name": "Desk Lamp",
+    "category": "Home",
+    "brand": "BrightHome",
+    "price": 1199,
+    "quantity": 11,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "home",
+      "brighthome"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P010",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "SoundBox",
+    "price": 2199,
+    "quantity": 9,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "electronics",
+      "soundbox"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P011",
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "brand": "FlexFit",
+    "price": 999,
+    "quantity": 35,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "sports",
+      "flexfit"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P012",
+    "name": "Coffee Mug",
+    "category": "Home",
+    "brand": "CupCo",
+    "price": 349,
+    "quantity": 100,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "home",
+      "cupco"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P013",
+    "name": "Power Bank",
+    "category": "Electronics",
+    "brand": "ChargeOn",
+    "price": 1799,
+    "quantity": 7,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "electronics",
+      "chargeon"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P014",
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "brand": "SunLine",
+    "price": 899,
+    "quantity": 16,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "accessories",
+      "sunline"
+    ],
+    "available": true
+  },
+  {
+    "productId": "P015",
+    "name": "Travel Adapter",
+    "category": "Accessories",
+    "brand": "GlobalPlug",
+    "price": 1299,
+    "quantity": 0,
+    "specifications": {
+      "model": "standard",
+      "warrantyMonths": 12
+    },
+    "tags": [
+      "accessories",
+      "globalplug"
+    ],
+    "available": false
+  }
+]
